@@ -1,7 +1,7 @@
 package abstractionshw.Abs1;
 
-public abstract class State implements Region {
+public class State extends Region {
     
-    public abstract void getNumberOfCities();
+    public void getNumberOfCities(){};
     
 }
