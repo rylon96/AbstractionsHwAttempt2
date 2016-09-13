@@ -1,6 +1,6 @@
 package abstractionshw.Abs1;
 
-public abstract class Region {
+public interface Region {
     
     public abstract void getLandmass();
     

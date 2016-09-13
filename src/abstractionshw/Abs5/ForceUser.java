@@ -1,6 +1,6 @@
 package abstractionshw.Abs5;
 
-public abstract class ForceUser {
+public interface ForceUser {
     
     public abstract void getSideOfForce();
     

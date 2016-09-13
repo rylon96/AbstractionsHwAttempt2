@@ -1,7 +1,7 @@
 
 package abstractionshw.Abs6;
 
-public abstract class Demon extends MagicalBeing {
+public abstract class Demon implements MagicalBeing {
     
     
     

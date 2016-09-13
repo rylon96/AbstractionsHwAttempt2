@@ -1,6 +1,6 @@
 package abstractionshw.Abs6;
 
-public abstract class MagicalBeing {
+public interface MagicalBeing {
 
         public abstract void getRace();
         public abstract void speak();
